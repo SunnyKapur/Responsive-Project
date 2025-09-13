@@ -1,0 +1,24 @@
+% => parent dimensions
+rem => root element [html] font-size
+em => parent element font-size
+vh => viewport height
+vw => viewport width
+
+
+//rem main html ka default value change karne par font size ka bhi value change ho jata hai
+1rem = 16px
+html{
+    font-size: 50px;
+}
+1rem = 50px
+
+
+
+-->viewport
+vh-viewport height
+vw-viewport width
+
+
+768px tablet
+1024px dekstop
+1200px wide screen
